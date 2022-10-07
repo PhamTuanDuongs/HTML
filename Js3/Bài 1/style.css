@@ -1,0 +1,55 @@
+table {
+    border: 1px;
+    width: 600px;
+    height: 250px;
+}
+
+table th {
+    height: 30px;
+    color: white;
+    background-color: hsl(94, 44%, 27%);
+}
+
+table,
+td {
+    border: 2px solid black;
+    border-collapse: collapse;
+}
+
+.h {
+    border: 2px solid black;
+    background-color: rgb(148, 177, 119);
+    color: white;
+    text-align: center;
+}
+
+
+
+#b1 td {
+    background-color: rgb(128, 128, 128);
+    border: 0px;
+}
+
+
+#b2 td {
+    border: 2px solid rgb(202, 189, 189);
+    border-top: 0px;
+    border-bottom: 0px;
+ }
+
+#b3 td {
+    background-color: rgb(128, 128, 128);
+    border: 0px;
+
+}
+
+#b4 td {
+ 
+    border: 2px solid rgb(202, 189, 189);
+    border-top: 0px;
+    border-bottom: 0px;
+}
+
+#b5 {
+    text-align: center;
+}

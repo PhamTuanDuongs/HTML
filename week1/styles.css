@@ -1,0 +1,21 @@
+/* cách reset thẻ css */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+ 
+.box {
+    width: 300px;
+    height: 300px;
+    background-color: red;
+    color: #fff;
+    padding: 50px;
+    border: 5px solid #000;
+    margin : 10px 20px 30px; /* margin là khoảng cách giữa các phần tử  */
+   /* Margin truyền vào 3 con số 1 tren 2 trai phai 3 duoi */
+   /* có 4 kiểu viết Margin và Padding  */
+   /*  */
+   box-sizing: border-box;
+}
+ 
